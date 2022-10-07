@@ -8,7 +8,6 @@
 <p>535210035-Raymond Briant Calvalie</p>
 <p>535210050-Dionathan</p>
 <p>535210022-Roberto Davin</p>
-<p>www.google.com</p>
 
 </body>
 </html>
